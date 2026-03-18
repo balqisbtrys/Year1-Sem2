@@ -1,6 +1,6 @@
-# Year1-Sem2
+## Year 1 Semester 2
 
-## List of Courses
+### List of Courses
 |Code|Courses|Lecturer|Section|
 |----|-------|--------|-------|
 |SECI1143|Probability & Statistical Data Analysis|  |  |
