@@ -3,7 +3,7 @@
 ### List of Courses
 |Code|Courses|Lecturer|Section|
 |----|-------|--------|-------|
-|SECI1143|Probability & Statistical Data Analysis|  |  |
+|SECI1143|Probability & Statistical Data Analysis|Dr. Rozilawati binti Dolah @ Md Zain|  |
 |SECJ1023|Programming Technique II|  |  |
 |SECP2613|System Analysis and Design (WBL)|Dr. Aryati binti Bakri|  |
 |SECR1033|Computer Organisation and Architecture|  |  |
