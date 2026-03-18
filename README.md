@@ -1,7 +1,7 @@
 ## Year 1 Semester 2
 
 ### List of Courses
-|Code|Courses|Lecturer|Section|
+|Code|Course|Lecturer|Section|
 |----|-------|--------|-------|
 |SECI1143|Probability & Statistical Data Analysis|Dr. Rozilawati binti Dolah @ Md Zain|02|
 |SECJ1023|Programming Technique II|Ms. Lizawati binti Mi Yusuf|03|
