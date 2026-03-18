@@ -3,9 +3,9 @@
 ### List of Courses
 |Code|Courses|Lecturer|Section|
 |----|-------|--------|-------|
-|SECI1143|Probability & Statistical Data Analysis|Dr. Rozilawati binti Dolah @ Md Zain|  |
-|SECJ1023|Programming Technique II|Ms. Lizawati binti Mi Yusuf|  |
-|SECP2613|System Analysis and Design (WBL)|Dr. Aryati binti Bakri|  |
+|SECI1143|Probability & Statistical Data Analysis|Dr. Rozilawati binti Dolah @ Md Zain|02|
+|SECJ1023|Programming Technique II|Ms. Lizawati binti Mi Yusuf|03|
+|SECP2613|System Analysis and Design (WBL)|Dr. Aryati binti Bakri|01|
 |SECR1033|Computer Organisation and Architecture|Pn Rashidah binti Kadir|  |
-|SECV2113|Human Computer Interaction|  |  |
-|ULRS1182|Appreciation of Ethics and Civilizations|  |  |
+|SECV2113|Human Computer Interaction|Dr. Nur Zuraifah Syazrah binti Othman|  |
+|ULRS1182|Appreciation of Ethics and Civilizations|  |09|
