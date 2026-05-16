@@ -5,3 +5,4 @@ This is a foundational course in HCI that introduces core theories, design proce
 2. Project: Part 1         - 5%
 3. Project: Part 2         - 10%
 4. Project: Part 3         - 10%
+5. Project: Part 4         - 20%
