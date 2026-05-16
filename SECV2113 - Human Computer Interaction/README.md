@@ -3,3 +3,4 @@ This is a foundational course in HCI that introduces core theories, design proce
 ### Continuous Assessment
 1. Assignment (Group)      - 5%
 2. Project: Part 1         - 5%
+3. Project: Part 2         - 10%
