@@ -1,4 +1,4 @@
-#SECV2113 - Human Computer Interaction
+# SECV2113 - Human Computer Interaction
 
 🏫Introduction
 Lecturer : Nur Zuraifah Syazrah binti Othman
